@@ -11,4 +11,4 @@ in progress 🚧 </br>
 
 Medium difficulty level:
 
-* [Music Advisor](https://github.com/Solomon1d24/Music-Advisor) 
+* [Music Advisor](https://github.com/Solomon1d24/Music-Advisor) ✔
