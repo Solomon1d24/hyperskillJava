@@ -12,3 +12,4 @@ in progress 🚧 </br>
 Medium difficulty level:
 
 * [Music Advisor](https://github.com/Solomon1d24/Music-Advisor) ✔
+* [Cinema Room Rest Service](https://github.com/Solomon1d24/cinema-room-rest-service) 🚧
