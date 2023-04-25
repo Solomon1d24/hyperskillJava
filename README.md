@@ -10,7 +10,7 @@ in progress 🚧 </br>
 ### List of projects </br>
 
 Hard difficulty level:
-* [Cinema Room Rest Service](https://github.com/Solomon1d24/cinema-room-rest-service) 🚧
+* [Cinema Room Rest Service](https://github.com/Solomon1d24/cinema-room-rest-service) ✔
 
 
 Medium difficulty level:
